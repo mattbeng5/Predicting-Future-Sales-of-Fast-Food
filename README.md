@@ -1,14 +1,14 @@
 # Predicting Future Sales of Fast Food
 
 ## Table of Contents
-- [Project Overview](project-overview)
-- [Data Sources](data-sources)
-- [Tools](tools)
-- [Data Cleaning and Preparation](data-cleaning-and-preparation)
-- [Correlation Between Variables](correlation-between-variables)
-- [Linear Regression Models](linear-regression-models)
-- [Conclusion](conclusion)
-- [Recommendations](recommendations)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Correlation Between Variables](#correlation-between-variables)
+- [Linear Regression Models](#linear-regression-models)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
 
 
 
